@@ -1,15 +1,17 @@
 # DevTips-Starter-Kit
 
-Use this as a simple structure for a simple start to a simple site.
+This is forked from https://github.com/DevTips/DevTips-Starter-Kit.
 
-Visit [DevTipsStarterKit.com/](http://devtipsstarterkit.com) for more info.
+## Using this
 
-<img src="https://github.com/DevTips/DevTips-Starter-Kit/blob/master/assets/img/starter-kit-cover.jpg?raw=true"
-alt="Watch the video on youtube" />
+```shell
+yarn install
+yarn start
+```
 
-***
+Build this to create a `dist` folder
 
-### Other Versions
+```shell
+yarn build
+```
 
-- There is a Jekyll friendly version <a href="https://github.com/DevTips/DevTips-Starter-Kit/tree/Jekyll-Starter-Kit">here.</a> (based on v1)
-- DevTipster [Maikel José Rivero Dorta](https://github.com/mriverodorta) created a [gulp version](https://github.com/mriverodorta/DevTips-Starter-Kit/tree/Gulp-Starter-Kit), and a [Command Line Interface](https://github.com/mriverodorta/devtips-cli) for this project!! So cool :)

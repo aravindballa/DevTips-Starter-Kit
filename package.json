@@ -1,0 +1,24 @@
+{
+  "name": "devtips-starter-kit",
+  "version": "1.0.0",
+  "description": "Use this as a simple structure for a simple start to a simple site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindballa/DevTips-Starter-Kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindballa/DevTips-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/aravindballa/DevTips-Starter-Kit#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.6.2"
+  }
+}

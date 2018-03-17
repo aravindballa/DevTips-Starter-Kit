@@ -89,3 +89,4 @@ typings/
 .next
 
 dist
+.cache
